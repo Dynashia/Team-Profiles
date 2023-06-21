@@ -1,0 +1,33 @@
+body{
+    background-color: #3cb9ee;
+  }
+  
+  .container {
+    width: 100%;
+  }
+  
+  .card{
+    width: 23vw;
+    min-width: 17vw;
+    margin: 15px;
+    background-color: #e1ebf1;
+  }
+  
+    
+  .card-header{
+    background-color: #0f0f0f;
+  }
+    
+  .card-title{
+    text-align: center;
+  }
+    
+  .jumbotron{
+    text-align: center;
+    background-color: #3abaf1;
+    text-shadow: 1px 1px 2px rgb(182, 186, 190);
+  }
+  
+  footer {
+    margin: 20px 0;
+  }
